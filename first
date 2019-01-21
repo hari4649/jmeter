@@ -1,0 +1,4 @@
+ node {
+  stage 'Run JMeter Test'
+  C:\Users\vankayalapati.sri\Downloads\apache-jmeter-3.2\apache-jmeter-3.2\bin\jmeter -n -t C:\Users\vankayalapati.sri\Downloads\apache-jmeter-3.2\apache-jmeter-3.2\bin\first.jmx -l C:\Users\vankayalapati.sri\Downloads\apache-jmeter-3.2\apache-jmeter-3.2\bin\first.jtl
+}
